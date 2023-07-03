@@ -1,0 +1,11 @@
+regionName,regionState,regionCapital,regionTimeZone,regionCoordinates
+SouthCentral US,Texas,Austin,Central Daylight Time,30.26
+West US3,Arizona,Phoenix,Mountain Standard Time,33.45
+East US3,Georgia,Atlanta,Eastern Daylight Time,33.76
+NorthCentral US,Illinois,Springfield,Central Daylight Time,37.21
+East US,Virginia,Richmond,Eastern Daylight Time,37.53
+East US2,Virginia,Richmond,Eastern Daylight Time,37.53
+West US,California,Sacramento,Pacific Daylight Time,38.06
+WestCentral US,Wyoming,Cheyenne,Mountain Daylight Time,41.13
+Central US,Iowa,Des Moines,Central Daylight Time,41.58
+West US2,Washington,Olympia,Pacific Daylight Time,47.05

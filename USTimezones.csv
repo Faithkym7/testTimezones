@@ -1,0 +1,51 @@
+state,capital, timezone,coordinates
+Alaska,Juneau,Alaska Daylight Time,58.3
+Delaware,Dover,British Summer Time,39.15
+Texas,Austin,Central Daylight Time,30.26
+Mississippi,Jackson,Central Daylight Time,30.33
+Louisiana,Baton Rouge,Central Daylight Time,30.45
+Alabama,Montgomery,Central Daylight Time,32.36
+Arkansas,Little Rock,Central Daylight Time,34.73
+Oklahoma,Oklahoma City,Central Daylight Time,35.46
+Tennessee,Nashville,Central Daylight Time,36.16
+Illinois,Springfield,Central Daylight Time,37.21
+Missouri,Jefferson City,Central Daylight Time,38.58
+Kansas,Topeka,Central Daylight Time,39.05
+Nebraska,Lincoln,Central Daylight Time,40.8
+Iowa,Des Moines,Central Daylight Time,41.58
+Wisconsin,Madison,Central Daylight Time,43.06
+South Dakota,Pierre,Central Daylight Time,44.36
+Minnesota,Saint Paul,Central Daylight Time,45
+North Dakota,Bismarck,Central Daylight Time,46.8
+Florida,Tallahassee,Eastern Daylight Time,30.45
+Georgia,Atlanta,Eastern Daylight Time,33.76
+South Carolina,Columbia,Eastern Daylight Time,34
+North Carolina,Raleigh,Eastern Daylight Time,35.78
+Virginia,Richmond,Eastern Daylight Time,37.53
+Kentucky,Frankfort,Eastern Daylight Time,38.2
+West Virginia,Charleston,Eastern Daylight Time,38.35
+Maryland,Annapolis,Eastern Daylight Time,38.96
+Indiana,Indianapolis,Eastern Daylight Time,39.76
+Ohio,Columbus,Eastern Daylight Time,39.96
+Pennsylvania,Harrisburg,Eastern Daylight Time,40.26
+Connecticut,Hartford,Eastern Daylight Time,41.76
+Rhode Island,Providence,Eastern Daylight Time,41.81
+Massachusetts,Boston,Eastern Daylight Time,42.36
+New York,Albany,Eastern Daylight Time,42.65
+Michigan,Lansing,Eastern Daylight Time,42.73
+New Hampshire,Concord,Eastern Daylight Time,43.2
+Vermont,Montpelier,Eastern Daylight Time,44.26
+Maine,Augusta,Eastern Daylight Time,44.31
+New Jersey,Trenton,Eastern Daylight Time,48.06
+Hawaii,Honolulu,Hawaii-Aleutian Standard Time,21.31
+New Mexico,Santa Fe,Mountain Daylight Time,35.68
+Colorado,Denver,Mountain Daylight Time,39.75
+Utah,Salt Lake City,Mountain Daylight Time,40.76
+Wyoming,Cheyenne,Mountain Daylight Time,41.13
+Idaho,Boise,Mountain Daylight Time,43.61
+Montana,Helena,Mountain Daylight Time,46.6
+Arizona,Phoenix,Mountain Standard Time,33.45
+California,Sacramento,Pacific Daylight Time,38.06
+Nevada,Carson City,Pacific Daylight Time,39.16
+Oregon,Salem,Pacific Daylight Time,44.93
+Washington,Olympia,Pacific Daylight Time,47.05
